@@ -1,8 +1,9 @@
 We are in Perth, WA.
 
-We are not offering remote work.
+We are not offering remote work or sponsorship.
 
 If you are unwilling to relocate at your own expense to Perth, please do not continue.
+
 
 
 This is the finished code for the Front End Developer Tech Challenge
