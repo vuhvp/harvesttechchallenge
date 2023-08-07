@@ -1,4 +1,11 @@
-# This is the finished code for the Front End Developer Tech Challenge
+We are in Perth, WA.
+
+We are not offering remote work.
+
+If you are unwilling to reolcate at your own expense to Perth, please do not continue.
+
+
+This is the finished code for the Front End Developer Tech Challenge
 
 This Tech challenge is created initially with GraphQL server and Svelte Js. 
 
